@@ -9,11 +9,5 @@ color: green
 sections:
   - /start/download
   - /start/installation
-#  - /start/code
-#  - /start/callouts
-#  - /start/tables
-#  - /start/buttons
-#  - /start/video3
-#  - /start/icons
 
 ---

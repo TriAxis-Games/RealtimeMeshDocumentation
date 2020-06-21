@@ -1,9 +1,9 @@
 ---
 title: What's New
 short_title: News
-excerpt: Get the latest updates and find out what's new
+excerpt: Here you'll find the latest news about the RMC!
 icon:
   name: fa fa-newspaper-o
-color: green
+color: blue
 layout: news
 ---

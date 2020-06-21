@@ -9,8 +9,8 @@ description: &site_description Documentation for the Runtime Mesh Component and 
 branding:
   icon:
     name: icon_documents_alt
-  highlight: Pretty
-  bold: Docs
+  highlight: Runtime
+  bold: Mesh
 markdown: kramdown
 kramdown:
   auto_ids: true

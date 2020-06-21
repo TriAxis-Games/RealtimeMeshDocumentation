@@ -2,16 +2,12 @@
 layout: home
 title: Home
 tagline: |
-  Runtime Mesh Component for Unreal Engine 4
+  Render meshes imported or generated during gameplay!
 heading: Getting started is easy!
 navigation:
   - /start
-  - /components
-  - /charts
-  - /faqs
-  - /showcase
-  - /credits
   - /news
+  - /faqs
   - /community
   - /legal
 ---
