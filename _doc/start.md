@@ -9,5 +9,6 @@ color: green
 sections:
   - /start/download
   - /start/installation
+  - /start/mesh-basics
 
 ---
