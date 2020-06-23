@@ -7,46 +7,46 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="TriangleList.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 489.64233 328.55759"
+   width="489.64233mm"
    height="328.55759mm"
-   width="489.64233mm">
+   viewBox="0 0 489.64233 328.55759"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="TriangleList.svg">
   <defs
      id="defs2">
     <rect
-       id="rect1039"
-       height="227.27708"
-       width="127.52917"
+       x="486.30417"
        y="253.20625"
-       x="486.30417" />
+       width="127.52917"
+       height="227.27708"
+       id="rect1039" />
   </defs>
   <sodipodi:namedview
-     lock-margins="true"
-     fit-margin-bottom="25"
-     fit-margin-right="25"
-     fit-margin-left="25"
-     fit-margin-top="25"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="3829"
-     inkscape:window-height="2066"
-     inkscape:window-width="3840"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="858.8535"
-     inkscape:cx="1287.0547"
-     inkscape:zoom="1"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="1287.0547"
+     inkscape:cy="858.8535"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="25"
+     fit-margin-left="25"
+     fit-margin-right="25"
+     fit-margin-bottom="25"
+     lock-margins="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,191 +55,191 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(12.5,-10)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(12.5,-10)">
     <rect
-       inkscape:label="Square"
-       y="50.992065"
-       x="50.992065"
-       height="248.01587"
-       width="248.01587"
+       style="fill:#ffffff;fill-opacity:1;stroke:#010000;stroke-width:1.98413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="square"
-       style="fill:#ffffff;fill-opacity:1;stroke:#010000;stroke-width:1.98413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       width="248.01587"
+       height="248.01587"
+       x="50.992065"
+       y="50.992065"
+       inkscape:label="Square" />
     <path
-       inkscape:label="SplitLine"
-       id="splitline"
+       style="fill:none;stroke:#000000;stroke-width:1.98877;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 299.29687,299.30086 50.703129,50.70314 v 0"
-       style="fill:none;stroke:#000000;stroke-width:1.98877;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="splitline"
+       inkscape:label="SplitLine" />
     <circle
-       inkscape:label="Vert0 Dot"
-       r="3"
-       cy="51"
-       cx="51"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="vert0dot"
-       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       inkscape:label="Vert3 Dot"
-       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="vert3dot"
-       cx="299"
-       cy="51"
-       r="3" />
-    <circle
-       inkscape:label="Vert1 Dot"
-       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="vert1dot"
        cx="51"
-       cy="299"
-       r="3" />
+       cy="51"
+       r="3"
+       inkscape:label="Vert0 Dot" />
     <circle
-       inkscape:label="Vert2 Dot"
+       r="3"
+       cy="51"
+       cx="299"
+       id="vert3dot"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="Vert3 Dot" />
+    <circle
        r="3"
        cy="299"
-       cx="299"
+       cx="51"
+       id="vert1dot"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="Vert1 Dot" />
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="vert2dot"
-       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="299"
+       cy="299"
+       r="3"
+       inkscape:label="Vert2 Dot" />
     <text
-       inkscape:label="Vert0 Text"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="9.8645105"
+       y="41.857441"
        id="vert0text"
+       inkscape:label="Vert0 Text"><tspan
+         id="tspan872"
+         x="9.8645105"
+         y="41.857441"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
+         sodipodi:role="line">[0]=( 0,10,0)</tspan></text>
+    <text
+       id="vert3text"
        y="41.857441"
-       x="9.8645105"
+       x="257.3645"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
+       xml:space="preserve"
+       inkscape:label="Vert3 Text"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
          y="41.857441"
-         x="9.8645105"
-         id="tspan872">[0]=( 0,10,0)</tspan></text>
-    <text
-       inkscape:label="Vert3 Text"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="257.3645"
-       y="41.857441"
-       id="vert3text"><tspan
-         sodipodi:role="line"
+         x="257.3645"
          id="tspan872-9"
-         x="257.3645"
-         y="41.857441"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583">[3]=(10,10,0)</tspan></text>
+         sodipodi:role="line">[1]=(10,10,0)</tspan></text>
     <text
-       inkscape:label="Vert1 Text"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="vert1text"
+       y="311.85745"
        x="9.8645105"
-       y="311.85745"
-       id="vert1text"><tspan
-         sodipodi:role="line"
-         id="tspan872-90"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:label="Vert1 Text"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
+         y="311.85745"
          x="9.8645105"
-         y="311.85745"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583">[1]=( 0, 0,0)</tspan></text>
+         id="tspan872-90"
+         sodipodi:role="line">[3]=( 0, 0,0)</tspan></text>
     <text
-       inkscape:label="Vert2 Text"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="257.3645"
+       id="vert2text"
        y="311.85745"
-       id="vert2text"><tspan
-         sodipodi:role="line"
-         id="tspan872-1"
-         x="257.3645"
-         y="311.85745"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583">[2]=(10, 0,0)</tspan></text>
-    <text
-       id="text934"
-       y="57.513729"
-       x="359.94833"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         id="tspan936"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-         y="57.513729"
-         x="359.94833"
-         sodipodi:role="line">Vertex Buffer</tspan></text>
-    <text
-       id="text942"
-       y="71.857437"
-       x="372.3645"
+       x="257.3645"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         id="tspan948"
+       xml:space="preserve"
+       inkscape:label="Vert2 Text"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
-         y="71.857437"
-         x="372.3645"
-         sodipodi:role="line">[0]=( 0,10,0)</tspan><tspan
-         id="tspan959"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
-         y="85.086563"
-         x="372.3645"
-         sodipodi:role="line">[1]=( 0, 0,0)</tspan><tspan
-         id="tspan961"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
-         y="98.315689"
-         x="372.3645"
-         sodipodi:role="line">[2]=(10, 0,0)</tspan><tspan
-         id="tspan963"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
-         y="111.54481"
-         x="372.3645"
-         sodipodi:role="line">[3]=(10,10,0)</tspan></text>
+         y="311.85745"
+         x="257.3645"
+         id="tspan872-1"
+         sodipodi:role="line">[2]=(10, 0,0)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="359.27652"
-       y="157.51373"
-       id="text934-9"><tspan
+       x="359.94833"
+       y="57.513729"
+       id="text934"><tspan
          sodipodi:role="line"
-         x="359.27652"
-         y="157.51373"
+         x="359.94833"
+         y="57.513729"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
-         id="tspan936-6">Index Buffer</tspan></text>
+         id="tspan936">Vertex Buffer</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#c20000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#b400ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="372.3645"
-       y="171.85744"
-       id="text942-4"><tspan
+       y="71.857437"
+       id="text942"><tspan
          sodipodi:role="line"
          x="372.3645"
-         y="171.85744"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583"
-         id="tspan963-7">[0] = 0</tspan><tspan
-         id="tspan1027"
+         y="71.857437"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan948">[0]=( 0,10,0)</tspan><tspan
          sodipodi:role="line"
          x="372.3645"
-         y="185.08656"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583">[1] = 1</tspan><tspan
-         id="tspan1029"
+         y="85.086563"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan959">[1]=(10,10,0)</tspan><tspan
          sodipodi:role="line"
          x="372.3645"
-         y="198.31569"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583">[2] = 2</tspan><tspan
-         id="tspan1031"
+         y="98.315689"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan961">[2]=(10, 0,0)</tspan><tspan
          sodipodi:role="line"
          x="372.3645"
-         y="211.54482"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583">[3] = 0</tspan><tspan
-         id="tspan1033"
-         sodipodi:role="line"
-         x="372.3645"
-         y="224.77394"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583">[4] = 2</tspan><tspan
-         id="tspan1035"
-         sodipodi:role="line"
-         x="372.3645"
-         y="238.00307"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583">[5] = 3</tspan></text>
+         y="111.54481"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#b400ff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan963">[3]=( 0, 0,0)</tspan></text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1039);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text934-9"
+       y="157.51373"
+       x="359.27652"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan936-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         y="157.51373"
+         x="359.27652"
+         sodipodi:role="line">Index Buffer</tspan></text>
+    <text
+       id="text942-4"
+       y="171.85744"
+       x="372.3645"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#c20000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan963-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583"
+         y="171.85744"
+         x="372.3645"
+         sodipodi:role="line">[0] = 0</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583"
+         y="185.08656"
+         x="372.3645"
+         sodipodi:role="line"
+         id="tspan1027">[1] = 1</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583"
+         y="198.31569"
+         x="372.3645"
+         sodipodi:role="line"
+         id="tspan1029">[2] = 2</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583"
+         y="211.54482"
+         x="372.3645"
+         sodipodi:role="line"
+         id="tspan1031">[3] = 0</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583"
+         y="224.77394"
+         x="372.3645"
+         sodipodi:role="line"
+         id="tspan1033">[4] = 2</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#c20000;fill-opacity:1;stroke-width:0.264583"
+         y="238.00307"
+         x="372.3645"
+         sodipodi:role="line"
+         id="tspan1035">[5] = 3</tspan></text>
+    <text
+       xml:space="preserve"
        id="text1037"
-       xml:space="preserve" />
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:semi-condensed;font-size:10.5833px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Light Semi-Condensed';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1039);fill:#000000;fill-opacity:1;stroke:none;" />
   </g>
 </svg>
