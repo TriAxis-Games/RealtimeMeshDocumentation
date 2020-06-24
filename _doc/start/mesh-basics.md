@@ -51,7 +51,7 @@ The index buffer can be either a 16 bit integer, or 32 bit integer per element, 
 
 ### Winding Order
 
-Winding order refers to the order the vertices are reference for the triangle, this is important as one of the most common ways of improving performance is through backface culling. This works by looking at the direction the triangle wraps to detect if it's a front or backface, and if it is found to be a backface then the triangle will get culled in hardware. By default Unreal Engine uses CounterClockwise Culling, so you should make the order of the vertices when referenced in the index list wrap clockwise when viewed from the visible side. 
+Winding order refers to the order the vertices are reference for the triangle, this is important as one of the most common ways of improving performance is through backface culling. This works by looking at the direction the triangle wraps to detect if it's a front or backface, and if it is found to be a backface then the triangle will get culled in hardware. By default Unreal Engine uses ClockWise Culling, so you should make the order of the vertices when referenced in the index list wrap Counter-ClockWise when viewed from the visible side. 
 
 It is possible to disable backface culling in Unreal by using two sided materials. If you're mesh appears to render inside out, then you need to reverse the winding order.
 
