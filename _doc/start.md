@@ -10,5 +10,6 @@ sections:
   - /start/download
   - /start/installation
   - /start/mesh-basics
-
+  - /start/collision
+  - /start/component-structure
 ---

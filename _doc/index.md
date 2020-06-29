@@ -19,6 +19,7 @@ tagline: |
 heading: Getting started is easy!
 navigation:
   - /start
+  - /builtins
   - /news
   - /faqs
   - /community

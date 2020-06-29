@@ -6,6 +6,7 @@ sections:
   - Index Buffer Layout
   - Winding Order
   - Tangents
+  - Mesh Hierarchy
 ---
 
 ### How Meshes are Represented
@@ -56,4 +57,14 @@ Winding order refers to the order the vertices are reference for the triangle, t
 It is possible to disable backface culling in Unreal by using two sided materials. If you're mesh appears to render inside out, then you need to reverse the winding order.
 
 
-### Tangents
+### Mesh Hierarchy/LOD
+
+Each RuntimeMeshComponent can have 1-8 Levels of Detail or LODs, each of which can have any number of sections. Each LOD is separate from the others, and so can have different numbers of sections and different materials bound to those sections.
+
+Each LOD has a ScreenSize associated to it. This is the percent of the screen the bounding volume has to cover before this LOD is rendered.
+
+### Material Slots
+
+Unlike the ProceduralMeshComponent and old RMC, materials are handled similarly to how StaticMesh handles them.   URuntimeMesh holds a number of material slots, setup by SetupMaterialSlot, each has a index, name, and material. You can find these slots by index or name. Each mesh section can be assigned to any slot. 
+
+The RuntimeMeshComponent like StaticMeshComponent then has override materials (which was how RMC and PMC previously handled materials)  these materials override the slots by index, and allow different components to bind different materials even when they share the same underlying mesh data.
