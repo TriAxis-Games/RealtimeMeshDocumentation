@@ -4,6 +4,7 @@ sections:
   - Installation from Marketplace
   - Installation from GitHub
   - 'Using RMC From Code'
+  - 'Using RMC from Blueprint'
 ---
 
 ### Installation from Marketplace
@@ -46,3 +47,10 @@ The current version of the RMC on the marketplace is quite old. This will be upd
     ```
 
 3. Now you should be able to #include the headers like any other plugin and use the RMC from C++!
+
+### Using RMC from Blueprint
+
+Using it from Blueprint isn't recommended as creating meshes relies on lots of small operations, and BP has fixed time cost per operation. **This means that, when using it from BP, generating meshes will often hang the engine**.
+We recommend making the provider in C++, then giving it the data it needs through BP if you really want to, so that all of the generation can be both multithreaded and done in C++, while keeping the data logic in BP.
+
+To install, do just like the previous section.

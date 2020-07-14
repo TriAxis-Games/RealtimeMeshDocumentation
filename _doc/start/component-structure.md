@@ -12,7 +12,7 @@ The Runtime Mesh Component is made up of several distinct parts, each of which p
 
 ### URuntimeMeshComponent
 
-URuntimeMeshComponent is the main component that allows you to place a URuntimeMesh in the scene and interact with it exactly like UStaticMeshComponent. It's possible to have multiple URuntimeMeshComponents all sharing a single URuntimeMesh, this means that a single copy of the gpu buffers can be shared among several individual components that all can act independently while drawing the same mesh. This is not the same as instancing which draws multiple copies of the mesh at different locations/rotations within the same component but they all function together.
+URuntimeMeshComponent is the main component that allows you to place a URuntimeMesh in the scene and interact with it exactly like UStaticMeshComponent. It's possible to have multiple URuntimeMeshComponents all sharing a single URuntimeMesh, this means that a single copy of the gpu buffers can be shared among several individual components that all can act independently while drawing the same mesh. This is not the same as instancing which draws multiple copies of the mesh at different locations/rotations within the same component, but they all function together.
 
 ### URuntimeMesh
 
@@ -24,7 +24,7 @@ URuntimeMeshProvider is the base class for the provider system. The provider sys
 
 ### URuntimeMeshProviderPassthrough
 
-URuntimeMeshProviderPassthrough is a base class for pass through providers. These work by linking one or more providers to them and doing internal logic on the returned results from the linked providers before passing the result on to the URuntimeMesh
+URuntimeMeshProviderPassthrough is a base class for pass through providers. These work by linking one or more providers to them and doing internal logic on the returned results from the linked providers before passing the result on to the URuntimeMesh.
 
 ### URuntimeMeshModifier
 
