@@ -20,6 +20,7 @@ heading: Getting started is easy!
 navigation:
   - /start
   - /builtins
+  - /usage
   - /news
   - /faqs
   - /community
