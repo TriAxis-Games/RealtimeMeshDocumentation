@@ -7,4 +7,5 @@ icon:
 color: yellow
 sections:
 - /usage/provider
+- /usage/RMCS
 ---
