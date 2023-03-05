@@ -1,7 +1,7 @@
 ---
 title: Quick Start
-excerpt: Getting started with the RuntimeMeshComponent
-date: 2020-06-20
+excerpt: Getting started with the RealtimeMeshComponent
+date: 2023-03-05
 icon:
   type: fa
   name: fa-paper-plane

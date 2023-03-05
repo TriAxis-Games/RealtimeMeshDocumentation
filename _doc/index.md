@@ -2,7 +2,7 @@
 layout: home
 title: Home
 tagline: |
-  Render meshes imported or generated during gameplay in Unreal Engine!
+  Render meshes imported or generated during gameplay or in editor in Unreal Engine!
   
   Designed with *&nbsp;*{: .fa .fa-heart} by [Koderz](https://github.com/Koderz)
   
@@ -19,7 +19,6 @@ tagline: |
 heading: Getting started is easy!
 navigation:
   - /start
-  - /builtins
   - /usage
   - /news
   - /faqs
@@ -27,16 +26,14 @@ navigation:
   - /legal
 ---
 
-Welcome to the Runtime Mesh Component for Unreal Engine!
+Welcome to the Realtime Mesh Component, formerly Runtime Mesh Component, for Unreal Engine! 
 
-Here you will find the documentation for the Runtime Mesh Component or RMC and the Runtime Mesh Toolkit or RMT
+Here you will find the documentation for the Realtime Mesh Component or RMC.
 
 <div class="cta-container">
 
 [*&nbsp;*{: .fa .fa-github} GitHub][GITHUBRMC]{: .btn .btn-green .btn-primary .btn-cta}
-[*&nbsp;*{: .fa .fa-github} Examples Project][GITHUBRMCEXAMPLES]{: .btn .btn-green .btn-primary .btn-cta}
 
 </div>
 
-[GITHUBRMC]: https://github.com/KoderzUnreal/RuntimeMeshComponent
-[GITHUBRMCEXAMPLES]: https://github.com/KoderzUnreal/RuntimeMeshComponent-Examples
+[GITHUBRMC]: https://github.com/TriAxis-Games/RealtimeMeshComponent

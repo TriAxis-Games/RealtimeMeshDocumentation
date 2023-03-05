@@ -4,12 +4,12 @@
 remote_theme: KoderzUnreal/pretty-docs
 url: https://koderzunreal.github.io
 baseurl: http://runtimemesh.koderz.io
-title: &site_title Runtime Mesh Docs
-description: &site_description Documentation for the Runtime Mesh Component and affiliated plugins for Unreal Engine!
+title: &site_title Realtime Mesh Docs
+description: &site_description Documentation for the Realtime Mesh Component and affiliated plugins for Unreal Engine!
 branding:
   icon:
     name: icon_documents_alt
-  highlight: Runtime
+  highlight: Realtime
   bold: Mesh
 markdown: kramdown
 kramdown:

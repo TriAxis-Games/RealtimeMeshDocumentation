@@ -4,8 +4,7 @@ excerpt: Learning how to use the RMC from your code
 icon:
   type: fa
   name: fa-paper-plane
-color: yellow
+color: red
 sections:
-- /usage/provider
-- /usage/RMCS
+- /usage/realtime-mesh-simple
 ---

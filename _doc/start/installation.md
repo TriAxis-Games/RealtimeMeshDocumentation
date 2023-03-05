@@ -9,17 +9,11 @@ sections:
 
 ### Installation from Marketplace
 
-<div class="callout-block callout-warning"><div class="icon-holder">*&nbsp;*{: .fa .fa-bug}
-</div><div class="content">
-{: .callout-title}
-#### Unreal Marketplace Version Out of Date
+1. Like any other plugin from the Marketplace, you will need to install it to the engine first through the marketplace and Epic Games Launcher.
+   
+2. For Blueprint usage, you're basically ready to go!
 
-The current version of the RMC on the marketplace is quite old. This will be updated shortly as v4 is stabilized!
-		
-</div></div>
-
-#### This section coming soon, once it actually makes sense to write it! 
-
+3. For C++ usage, you will want to follow the steps [Below](#using-rmc-from-code) to get C++ access!
 
 ### Installation from GitHub
 
@@ -29,12 +23,11 @@ The current version of the RMC on the marketplace is quite old. This will be upd
 
 3. Navigate to your project folder, and assuming the folder doesn't already exist, create a 'Plugins' folder in the root of your project.
 
-4. Within the plugins folder create a folder called RuntimeMeshComponent and copy the contents of the version you downloaded into this folder, making sure not to nest subfolders, all the files/folders in the directory of the .uplugin file should be in your newly created /Plugins/RuntimeMeshComponent folder.
+4. Within the plugins folder create a folder called RealtimeMeshComponent and copy the contents of the version you downloaded into this folder, making sure not to nest subfolders, all the files/folders in the directory of the .uplugin file should be in your newly created /Plugins/RealtimeMeshComponent folder.
    
 5. At this point you should be able to relaunch the project and the editor should detect the new plugin and compile it for you!
 
 6. You should be able to start using the RMC!
-
 
 ### Using RMC From Code
 
@@ -43,14 +36,12 @@ The current version of the RMC on the marketplace is quite old. This will be upd
 2. Next, in your projects build file 'YourProjectName.Build.cs' you must add this line:
 
     ```c++
-    PublicDependencyModuleNames.Add("RuntimeMeshComponent");
+    PublicDependencyModuleNames.Add("RealtimeMeshComponent");
     ```
 
 3. Now you should be able to #include the headers like any other plugin and use the RMC from C++!
 
 ### Using RMC from Blueprint
 
-Using it from Blueprint isn't recommended as creating meshes relies on lots of small operations, and BP has fixed time cost per operation. **This means that, when using it from BP, generating meshes will often hang the engine**.
-We recommend making the provider in C++, then giving it the data it needs through BP if you really want to, so that all of the generation can be both multithreaded and done in C++, while keeping the data logic in BP.
+Using the RMC from Blueprint is simple, once the plugin is installed to the engine or project it's ready to go!
 
-To install, do just like the previous section.

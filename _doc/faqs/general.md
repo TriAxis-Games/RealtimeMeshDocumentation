@@ -3,15 +3,15 @@ title: General
 ---
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} Can I use the Runtime Mesh Component in a commercial project?
+### *&nbsp;*{: .fa .fa-question-circle} Can I use the Realtime Mesh Component in a commercial project?
 
 {: .answer}
-Yes! The Runtime Mesh Component is governed by the MIT license, so you're basically unrestricted in use. All that is requested is that you provide credit when and where possible back to this project!
+Yes! The Realtime Mesh Component is governed by the MIT license, so you're basically unrestricted in use. All that is requested is that you provide credit when and where possible back to this project!
 
-You can view the [License](http://localhost:4000/legal.html) for more detailed information!
+You can view the [License](/legal.html) for more detailed information!
 
 {: .question}
-### *&nbsp;*{: .fa .fa-question-circle} How can I support the Runtime Mesh Component?
+### *&nbsp;*{: .fa .fa-question-circle} How can I support the Realtime Mesh Component?
 
 {: .answer}
 The RMC is a labor of love kind of project, but unfortunately that doesn't pay the bills!
